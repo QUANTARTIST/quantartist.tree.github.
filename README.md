@@ -1,4 +1,6 @@
 ﻿This assignment was undertaken for Contexts of Information Visualization | MICA | MPS InfoVis. It represents my second attempt to develop a visualization using the D3.js library. In this instance, I have appropriated the code of Ilya Yaubovich’s Game of Thrones family tree. I have adjusted this framework to represent the taxonomy of the hominid family evolution.
+Note that there are a lot of imperfections in the way the visualization is currently displayed. I aim to improve on those in future work as my skills evolve!
+
 To view the visualization go here:
 
 https://quantartist.github.io/quantartist.tree.github.io/
@@ -23,5 +25,5 @@ This is useful for trees with cycles (cousins marrying each other) and multiple 
 
 Uses d3.js to draw the tree.
 
-•	Based on Rob Schmuecker’s example: http://bl.ocks.org/robschmuecker/7880033
+Based on Rob Schmuecker’s example: http://bl.ocks.org/robschmuecker/7880033
 
