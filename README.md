@@ -8,6 +8,7 @@ https://quantartist.github.io/quantartist.tree.github.io/
 For Illya’s original work see:
 
 http://ilyayakubovich.com/descendant_tree/#stark
+
 http://ilyayakubovich.com/descendant_tree/book.html#stark
 
 Referencing Yakabuvich:
