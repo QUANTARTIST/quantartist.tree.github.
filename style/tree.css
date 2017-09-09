@@ -8,7 +8,7 @@ body {
   left: 0;
   z-index: 99;
   padding: 25px;
-  font-family: "Georgia";
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 18px;
   max-width: 850px;
   line-height: 1.4;
@@ -43,7 +43,7 @@ body {
 }
 
 .overlay{
-    background-color: #F7F4F0;
+    background-color:white;
 }
  
 .node circle {
@@ -55,7 +55,7 @@ body {
 .node text {
   font-size:11px; 
   font-weight: bold;
-  font-family: "Georgia";
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #4D3636;
 }
  
@@ -72,4 +72,12 @@ body {
 .ghostCircle, .activeDrag .ghostCircle{
      display: none;
 }
+    #hominid{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding-left: 30px;
+    }
+        #me{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding-left: 30px;
+    }
 

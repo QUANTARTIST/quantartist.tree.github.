@@ -1,189 +1,93 @@
 {
-  "name": "Benjen Stark",
-  "bio":"Lord of Winterfell and head of House Stark. He married Lady Lysa Locke, with whom he had two sons",
-  "image":"images/fictional/lord.png",
-  "children":[
+  "name": "Hominoidea (Hominids)",
+  "bio": "Hominidae includes humans as well as our close ape relatives, chimps, orangutans, and gorillas.",
+  "image": "images/fictional/ape.png",
+  "children": [
     {
-      "name":"Rickon Stark",
-      "bio":" Lord of Winterfell and head of House Stark. The eldest son of Lord Benjen Stark and Lady Lysa Locke. He married Lady Gilliane Glover and had one son.",
-      "image":"images/fictional/lord.png",
-      "children":[
+      "name": "Hominidae",
+      "bio": "One of the two living families of the ape superfamily Hominoidea, the other being the Hylobatidae (gibbons).Hominidae includes the great apes—that is, the orangutans (genus Pongo), gorillas (Gorilla), and chimpanzees and bonobos (Pan)—as well as human beings (Homo).",
+      "image": "images/fictional/ape2.png",
+      "children": [
         {
-          "name":"Cregan Stark",
-          "image":"images/fictional/lord.png",
-          "bio":"Lord of Winterfell, Warden of the North, and head of House Stark. He briefly served as Hand of the King for Aegon III Targaryen after the Dance of the Dragons.",
-          "children":[
+          "name": "Homininae",
+          "image": "images/fictional/ape4.png",
+          "bio": "Homininae is a subfamily of Hominidae. It includes two tribes, with their extant as well as extinct species: the Hominini tribe (with the genus Homo including modern humans, Australopithecina.",
+          "children": [
             {
-              "name":"Rickon Stark",
-              "bio":"Eldest son of Lord Cregan Stark & Lady Arra Norrey. Married Lady Jeyne Manderly. Fought under Targaryen banner during the Conquest of Dorne. His death outside of Sunspear in one of the final battles was lamented in the North for years due to trouble that dogged his half brothers' reigns.",
+              "name": "Hominini",
+              "bio": "The Hominini is a taxonomic tribe of the subfamily Homininae; it comprises three subtribes: Hominina, with its one genus Homo; Australopithecina, comprising at least three extinct (or, fossil) genera and Panina",
+              "image": "images/fictional/ape5.png",
               "children": [
                 {
-                  "name":"Serena Stark",
-                  "source":"json/stark_edric.json"
+                  "name": "Homo",
+                  "bio": "Homo is the genus that comprises the species Homo sapiens, which includes modern humans, as well as several extinct species classified as ancestral to or closely related to modern humans, most notably Homo erectus. The genus is between 2 and 3 million years old, taken to emerge with the appearance of Homo habilis",
+                  "image": "images/fictional/ape6.png"
                 },
                 {
-                  "name":"Sansa Stark"
+                  "name": "Pan",
+                  "bio": "A taxonomic genus within the family Hominidae – the chimpanzees, native to central Africa",
+                  "image": "images/fictional/ape7.png"
                 }
               ]
             },
             {
-              "name":"Jonnel Stark",
-              "image":"images/fictional/lord.png",
-              "bio":"Known as One-Eye was a Lord of Winterfell and head of House Stark. The second son of Lord Cregan Stark, first by his last wife Lynara Stark. Was married twice, to Robyn Ryswell and his niece Sansa Stark, but neither marriage had issue, so his brother Barth Blacksword followed him as Lord of Winterfell."
-            },
-            {
-              "name":"Edric Stark",
-              "bio":"The third son of Lord Cregan Stark, second by his last wife Lynara Stark. He was married to Serena Stark, the daughter of his half-brother Rickon Stark, they had four children; twin sons Cregard and Torrhen, and two daughters Aregelle and Arrana Stark.",
-              "source":"json/stark_edric.json"
-            },
-            {
-              "name":"Lyanna Stark",
-              "bio":"The only daughter of Cregan Stark and Lady Lynara Stark",
-              "isFemale":true
-            },
-            {
-              "name":"Barthogan Stark",
-              "image":"images/fictional/lord.png",
-              "bio":"Better known as Barth Blacksword. The fourth born son of Lord Cregan Stark, the third by his last wife Lady Lynara Stark. Barth became Lord of Winterfell and head of House Stark after the death of his brother Lord Jonnel Stark with no issue. He was killed when Skagosi rose up against Winterfell. Barth is entombed in the crypts of Winterfell."
-            },
-            {
-              "name":"Brandon Stark",
-              "image":"images/fictional/lord.png",
-              "bio":"Lord of Winterfell and head of House Stark. He was the youngest son of Lord Cregan Stark and Lady Lynara Stark. Became Lord of Winterfell after two of his older brothers. Was married to Lady Alys Karstark, with whom he had three children; Rodwell, Beron and Arsa Stark. He also had a bastard son Lonnel Snow with Lady Wylla Fenn.",
-              "children":[
+              "name": "Gorrillini",
+              "image": "images/fictional/ape12.png",
+              "bio": "Gorillini is a taxonomical tribe containing two genera: Gorilla and the extinct Chororapithecus",
+              "children": [
                 {
-                  "name":"Rodwell Stark",
-                  "image":"images/fictional/lord.png",
-                  "bio":"Lord of Winterfell and head of House Stark. The eldest son of Lord Brandon Stark and Lady Alys Karstark. He married Lady Myriame Manderly, but had no issue, his brother Beron followed him as Lord of Winterfell."
-                },
-                {
-                  "name":"Arsa Stark",
-                  "isFemale":true
-                },
-                {
-                  "name":"Beron Stark",
-                  "image":"images/fictional/lord.png",
-                  "bio":"Became Lord of Winterfell after his brother's death during the reign of King Aerys I. Gathered swords to throw Lord Dagon Greyjoy's ironmen back into the sea and made common cause with the Lord of Casterly Rock for it. He was mortally wounded in the ensuing clash, and House Stark faced a crisis of succession.",
-                  "children":[
-                    {
-                      "name":"Donnor Stark",
-                      "bio":"Lord of Winterfell and head of House Stark. He was the eldest son of Lord Beron Stark. His brother Willam Stark followed him as Lord of Winterfell because Donnor died without issue.",
-                      "image":"images/fictional/lord.png"
-                    },
-                    {
-                      "name":"Willam Stark",
-                      "bio":"Became Lord of Winterfell after the death of his older brother. Married Lady Melantha Blackwood and Lady Lyanne Glover. When Raymun Redbeard went over the Wall, Lord Willam called his banners and marched with Lord Harmond Umber. Killed and beheaded during the battle at Long Lake in 226 AC. His brother, Artos, avenged him by slaying Raymun.",
-                      "image":"images/fictional/lord.png",
-                      "children":[
-                        {
-                          "name":"Brandon Stark"
-                        },
-                        {
-                          "name":"Edwyle Stark",
-                          "image":"images/fictional/lord.png",
-                          "bio":"Lord of Winterfell and head of House Stark. The only son of Lord Willam Stark and Lady Melantha Blackwood. Edwyle married Lady Marna Locke and had only one child; Rickard. Edwyle was buried in the crypt of Winterfell. There is a statue of him placed with his tomb.",
-                          "children":[
-                            {
-                              "image":"images/fictional/stark_rickard.jpg",
-                              "name":"Rickard Stark",
-                              "source":"json/stark_rickard.json",
-                              "bio":"Lord of Winterfell and head of House Stark during the reign of Aerys II Targaryen. He was the only child of Lord Edwyle Stark and Lady Marna Locke."
-                            }
-                          ]
-                        },
-                        {
-                          "name":"Jocelyn Royce",
-                          "isFemale":true,
-                          "children":[
-                            {
-                              "name":"House Royce",
-                              "image":"http://awoiaf.westeros.org/images/thumb/c/cf/House_Royce_of_the_Gates_of_the_Moon.png/250px-House_Royce_of_the_Gates_of_the_Moon.png"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name":"Artos Stark",
-                      "bio":"Known as Artos the Implacable. 3rd son of Lord Beron Stark and Lady Lorra Royce. Marched north with his brother Lord Willam when King-Beyond-the-Wall Raymun Redbeard went over the Wall. Slew Raymun during the battle, ending the wildling threat.",
-                      "children":[
-                        {
-                          "name":"Brandon Stark"
-                        },
-                        {
-                          "name":"Benjen Stark"
-                        }
-                      ]
-                    },
-                    {
-                      "name":"Rodrick Stark",
-                      "bio":"Known as the Wandering Wolf, was a member of House Stark, the fifth son and youngest child of Lord Beron Stark and Lady Lorra Royce. He married Arya Flint of the mountain clans and had two daughters; Branda and Lyarra Stark. Rodrik served with the Second Sons, a sellsword company.",
-                      "children":[
-                        {
-                          "name":"Lyarra Stark",
-                          "bio":"The second daughter of Rodrik Stark and Arya Flint. She was married to her cousin Lord Rickard Stark",
-                          "image":"images/fictional/stark_lyarra.jpg",
-                          "source":"json/stark_rickard.json"
-                        },
-                        {
-                          "name":"Branda Stark",
-                          "isFemale":true
-                        }
-                      ]
-                    },
-                    {
-                      "name":"Berena Stark",
-                      "isFemale":true
-                    },
-                    {
-                      "name":"Alysanne Stark",
-                      "isFemale":true
-                    },
-                    {
-                      "name":"Brandon Stark"
-                    },
-                    {
-                      "name":"Errold Stark"
-                    }
-                  ]
-                },
-                {
-                  "name":"Lonnel Snow"
+                  "name": "Gorilla",
+                  "image": "images/fictional/ape13.png",
+                  "bio": "Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit the forests of central Africa. The eponymous genus Gorilla is divided into two species: the eastern gorillas and the western gorillas (both critically endangered), and either four or five subspecies. They are the largest living primates. The DNA of gorillas is highly similar to that of humans, from 95–99% depending on what is counted, and they are the next closest living relatives to humans after the chimpanzees and bonobos."
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "Ponginae",
+          "bio": "Ponginae is a subfamily in the family Hominidae. Once a diverse lineage of Eurasian apes, pongines are now represented by two species of orangutans: the Sumatran orangutan (Pongo abelii), and the Bornean orangutan (Pongo pygmaeus). Both species of orangutan are now listed as critically endangered by the IUCN",
+          "image": "images/fictional/ape11.png",
+          "children": [
             {
-              "name":"Sarra Stark",
-              "isFemale":true
-            },
-            {
-              "name":"Alys Stark",
-              "isFemale":true
-            },
-            {
-              "name":"Raya Stark",
-              "isFemale":true
-            },
-            {
-              "name":"Mariah Stark",
-              "isFemale":true
+              "name": "",
+              "image": "images/fictional/placeholder.png",
+              "bio": "No Tribes - continue.",
+              "children": [
+                {
+                  "name": "Pongo",
+                  "image": "images/fictional/ape9.png",
+                  "bio": "The orangutans (also spelled orang-utan, orangutang, or orang-utang)[3] are the two exclusively Asian species of extant great apes. Native to Indonesia and Malaysia, orangutans are currently found in only the rainforests of Borneo and Sumatra. Classified in the genus Pongo, orangutans were considered to be one species. Since 1996, they have been divided into two species: the Bornean orangutan (P. pygmaeus) and the Sumatran orangutan (P. abelii). In addition, the Bornean species is divided into three subspecies."
+                }
+              ]
             }
           ]
         }
       ]
     },
     {
-      "name":"Bennard Stark",
-      "bio":"Married Margaret Karstark, with whom he had three sons",
-      "children":[
+      "name": "Hylobatidae",
+      "image": "images/fictional/ape3.png",
+      "bio": "The family Hylobatidae is composed of gibbons. The family historically contained one genus, but now is split into four genera (Hylobates, Hoolock, Nomascus, and Symphalangus).",
+      "children": [
         {
-          "name":"Benjen"
-        },
-        {
-          "name":"Brandon"
-        },
-        {
-          "name":"Elric"
+          "name": "",
+          "image": "images/fictional/placeholder.png",
+          "bio": "No subfamily - continue",
+          "children": [
+            {
+              "name": "",
+              "bio": "No tribe - continue",
+              "image": "images/fictional/placeholder.png",
+              "children": [
+                {
+                  "name": "Hylobates",
+                  "image": "images/fictional/ape10.png",
+                  "bio": "The genus Hylobates is one of the four genera of gibbons. Its name means ‘forest walker’, from the Greek hūlē (ὕλη, ‘forest’) and bates (βάτης, ‘one who treads’). It was once considered the only genus, but recently its subgenera (Hoolock [formerly Bunopithecus], Nomascus, and Symphalangus) have been elevated to the genus level.[1][5] Hylobates remains the most speciose and widespread of gibbon genera, ranging from southern China (Yunnan) to western and central Java."
+                }
+              ]
+            }
+          ]
         }
       ]
     }
