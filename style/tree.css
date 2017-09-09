@@ -80,4 +80,19 @@ body {
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       padding-left: 30px;
     }
+    #explain {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+      #references {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding-left: 30px;
+      padding-right: 30px;
+      font-size: small;
+    }
+    #bold {
+      font-weight: bold;
+    }
+
 
